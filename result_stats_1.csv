@@ -1,0 +1,33 @@
+Model,Result,Type,Train_Test
+Linear Regression,0.866563,Accuracy,80-20
+Linear Regression,0.20529,MAE,80-20
+Linear Regression,0.07236,MSE,80-20
+Linear Regression,0.26901,RMSE,80-20
+Linear Regression,0.86427,Accuracy,70-30
+Linear Regression,0.86427,MAE,70-30
+Linear Regression,0.86427,MSE,70-30
+Linear Regression,0.86427,RMSE,70-30
+Decision Tree,0.87287,Accuracy,80-20
+Decision Tree,0.17769,MAE,80-20
+Decision Tree,0.06894,MSE,80-20
+Decision Tree,0.26257,RMSE,80-20
+Decision Tree,0.86336,Accuracy,70-30
+Decision Tree,0.17995,MAE,70-30
+Decision Tree,0.07512,MSE,70-30
+Decision Tree,0.27408,RMSE,70-30
+Random Forest,0.9361,Accuracy,80-20
+Random Forest,0.1308,MAE,80-20
+Random Forest,0.03745,MSE,80-20
+Random Forest,0.19353,RMSE,80-20
+Random Forest,0.9288541,Accuracy,70-30
+Random Forest,0.13236,MAE,70-30
+Random Forest,0.04014,MSE,70-30
+Random Forest,0.20036,RMSE,70-30
+KNN,0.745621,Accuracy,80-20
+KNN,0.27689,MAE,80-20
+KNN,0.28023,MSE,80-20
+KNN,0.5293,RMSE,80-20
+KNN,0.73248,Accuracy,70-30
+KNN,0.29254,MAE,70-30
+KNN,0.2981,MSE,70-30
+KNN,0.5459,RMSE,70-30

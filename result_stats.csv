@@ -1,0 +1,17 @@
+﻿Model,Result,Type
+Linear Regression,0.866563,Accuracy
+Linear Regression,0.20529,MAE
+Linear Regression,0.07236,MSE
+Linear Regression,0.26901,RMSE
+Random Forest,0.930295,Accuracy
+Random Forest,0.1301,MAE
+Random Forest,0.0378,MSE
+Random Forest,0.19443,RMSE
+Decision Tree,0.867887,Accuracy
+Decision Tree,0.17959,MAE
+Decision Tree,0.07165,MSE
+Decision Tree,0.26767,RMSE
+KNN,0.74395,Accuracy
+KNN,0.27689,MAE
+KNN,0.2802,MSE
+KNN,0.52937,RMSE

@@ -1,0 +1,18 @@
+Model,Accuracy,CV
+Linear Regression,0.86656,w/o
+Linear Regression,0.86896,5
+Linear Regression,0.86877,10
+Linear Regression,0.86896,20
+Decision Tree,0.87287,w/o
+Decision Tree,0.86542,5
+Decision Tree,0.87413,10
+Decision Tree,0.87963,20
+"Random Forest,n=10",0.92346,w/o
+"Random Forest,n=10",0.915109,5
+"Random Forest,n=10",0.930307,10
+"Random Forest,n=500",0.930284,w/o
+"Random Forest,n=500",0.9293,5
+"Random Forest,n=500",0.936124,10
+KNN,0.74395,w/o
+KNN,0.7454,5
+KNN,0.745621,10
